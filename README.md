@@ -12,7 +12,7 @@
 
 [“Russia”, “Denmark”, “Kazan”] → []
 
-[Code](diagram.png)
+[diagram](diagram.png)
 
 [Code](KR/Program.cs)
 
